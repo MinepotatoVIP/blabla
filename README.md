@@ -1,6 +1,6 @@
 # Blabla Project
 
-A simple Python project to [briefly describe what the project does]. This project allows you to [describe the main features].
+A simple Python project to print token.
 
 ## Table of Contents
 
