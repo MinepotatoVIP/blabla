@@ -1,0 +1,1 @@
+from .blabla import charabia
